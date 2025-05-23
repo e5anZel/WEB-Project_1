@@ -25,20 +25,16 @@
 
 === Установка и настройка ===
 
-1. Клонировать репозиторий:
-git clone https://github.com/yourusername/chess-telegram-bot.git
-cd chess-telegram-bot
-
-2. Установить зависимости:
+1. Установить зависимости:
 pip install -r requirements.txt
 
-3. Создать config.ini со следующим содержанием:
+2. Создать config.ini со следующим содержанием:
 [Settings]
 API_TOKEN = ваш_токен_бота
 STOCKFISH_PATH = путь_к_stockfish
 DATABASE_URL = sqlite:///database.db
 
-4. Запустить бота:
+3. Запустить бота:
 python main.py
 
 === Примеры использования ===
