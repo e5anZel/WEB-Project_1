@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f8d99fe0-9c9b-4caa-bf07-bc1e547f88b3)![image](https://github.com/user-attachments/assets/e2345d91-464e-4b8d-95d6-43dab599fe10)![image](https://github.com/user-attachments/assets/371213b7-607c-4748-9c77-8ac0d54ed8c6)![image](https://github.com/user-attachments/assets/c0444b22-f4ed-47e3-889f-f54e22722040)♟ Chess Telegram Bot
-
 Умный шахматный бот для Telegram с поддержкой игры против ИИ и реальных игроков. 
 Интеграция с Stockfish для профессионального анализа позиций.
 
