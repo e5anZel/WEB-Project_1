@@ -52,6 +52,7 @@ python main.py
 - Таблица с результатами игр
 - Процентное соотношение побед/поражений
 === Примеры использования ===
+
 ![image](https://github.com/user-attachments/assets/916aaf72-b7c3-4b61-ac13-df219e32af68)
 ![image](https://github.com/user-attachments/assets/12ff51b1-ed0a-49e2-b169-051e84df1fe3)
 ![image](https://github.com/user-attachments/assets/ff7592c7-e574-499f-9cc6-31e3e9a00fb6)
