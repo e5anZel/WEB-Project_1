@@ -1,0 +1,3 @@
+API_TOKEN="7726983392:AAEQttcpwj4_I_KX3pJ3Bnj0nTdSQSInHbA"
+DATABASE_URL="sqlite:///chess.db"
+STOCKFISH_PATH='stockfish/stockfish-windows-x86-64-avx2.exe'
